@@ -33,7 +33,7 @@
 
 
 
-    <dependency id="cordova-plugin-mfp" version="&gt;=8.0.0" />
+    <!-- <dependency id="cordova-plugin-mfp" version="&gt;=8.0.0" /> -->
     <!-- <dependency id="cordova-plugin-mfp-encrypt-utils" version="&gt;=8.0.0" /> Uncomment when JSONStore hybrid is decoupled -->
 
     <platform name="android">
